@@ -1,0 +1,11 @@
+{
+  "request_timeout": 10.0,
+  "request_delay": 0.5,
+  "max_retries": 3,
+  "enable_books_scraper": true,
+  "enable_quotes_scraper": true,
+  "csv_output_path": "output/final_dataset.csv",
+  "summary_report_path": "output/summary_report.json",
+  "data_quality_report_path": "output/data_quality_report.json",
+  "log_file_path": "logs/scraper.log"
+}

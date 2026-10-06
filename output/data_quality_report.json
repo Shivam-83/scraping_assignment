@@ -1,0 +1,176 @@
+{
+    "total_records": 1099,
+    "records_by_source": {
+        "Books to Scrape": 999,
+        "Quotes to Scrape": 100
+    },
+    "field_completeness": {
+        "source": {
+            "populated_count": 1099,
+            "missing_count": 0,
+            "completeness_pct": 100.0
+        },
+        "source_url": {
+            "populated_count": 1099,
+            "missing_count": 0,
+            "completeness_pct": 100.0
+        },
+        "name_or_title": {
+            "populated_count": 1099,
+            "missing_count": 0,
+            "completeness_pct": 100.0
+        },
+        "category": {
+            "populated_count": 0,
+            "missing_count": 1099,
+            "completeness_pct": 0.0
+        },
+        "price": {
+            "populated_count": 999,
+            "missing_count": 100,
+            "completeness_pct": 90.9
+        },
+        "rating": {
+            "populated_count": 999,
+            "missing_count": 100,
+            "completeness_pct": 90.9
+        },
+        "author": {
+            "populated_count": 100,
+            "missing_count": 999,
+            "completeness_pct": 9.1
+        },
+        "tags": {
+            "populated_count": 97,
+            "missing_count": 1002,
+            "completeness_pct": 8.83
+        },
+        "description": {
+            "populated_count": 0,
+            "missing_count": 1099,
+            "completeness_pct": 0.0
+        },
+        "scraped_at": {
+            "populated_count": 1099,
+            "missing_count": 0,
+            "completeness_pct": 100.0
+        }
+    },
+    "completeness_by_source": {
+        "Books to Scrape": {
+            "source": {
+                "populated_count": 999,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "source_url": {
+                "populated_count": 999,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "name_or_title": {
+                "populated_count": 999,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "category": {
+                "populated_count": 0,
+                "missing_count": 999,
+                "completeness_pct": 0.0
+            },
+            "price": {
+                "populated_count": 999,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "rating": {
+                "populated_count": 999,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "author": {
+                "populated_count": 0,
+                "missing_count": 999,
+                "completeness_pct": 0.0
+            },
+            "tags": {
+                "populated_count": 0,
+                "missing_count": 999,
+                "completeness_pct": 0.0
+            },
+            "description": {
+                "populated_count": 0,
+                "missing_count": 999,
+                "completeness_pct": 0.0
+            },
+            "scraped_at": {
+                "populated_count": 999,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            }
+        },
+        "Quotes to Scrape": {
+            "source": {
+                "populated_count": 100,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "source_url": {
+                "populated_count": 100,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "name_or_title": {
+                "populated_count": 100,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "category": {
+                "populated_count": 0,
+                "missing_count": 100,
+                "completeness_pct": 0.0
+            },
+            "price": {
+                "populated_count": 0,
+                "missing_count": 100,
+                "completeness_pct": 0.0
+            },
+            "rating": {
+                "populated_count": 0,
+                "missing_count": 100,
+                "completeness_pct": 0.0
+            },
+            "author": {
+                "populated_count": 100,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            },
+            "tags": {
+                "populated_count": 97,
+                "missing_count": 3,
+                "completeness_pct": 97.0
+            },
+            "description": {
+                "populated_count": 0,
+                "missing_count": 100,
+                "completeness_pct": 0.0
+            },
+            "scraped_at": {
+                "populated_count": 100,
+                "missing_count": 0,
+                "completeness_pct": 100.0
+            }
+        }
+    },
+    "validity_summary": {
+        "invalid_url_count": 0,
+        "invalid_price_count": 0,
+        "invalid_rating_count": 0,
+        "unknown_source_count": 0,
+        "missing_name_count": 0
+    },
+    "uniqueness_summary": {
+        "duplicate_count": 0,
+        "is_fully_deduplicated": true
+    }
+}
