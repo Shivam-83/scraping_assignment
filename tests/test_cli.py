@@ -1,6 +1,5 @@
 """Unit tests for CLI argument parsing in main.py."""
 
-from pathlib import Path
 import pytest
 
 from main import build_cli_parser, resolve_config_from_args

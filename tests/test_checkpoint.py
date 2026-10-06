@@ -1,7 +1,6 @@
 """Unit tests for checkpointing and resume support in processing/checkpoint.py."""
 
 import json
-from pathlib import Path
 import pytest
 
 from processing import ScrapedRecord
